@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ashraf</h1>
-<h3 align="center">A Computer engineering and science based in Egypt</h3>
+<h3 align="center">A Computer science and engineering</h3>
 
 - 🔭 I’m currently working on **Nft market place**
 
