@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ashraf</h1>
 <h3 align="center">A Computer science and engineering</h3>
 
-- 🔭 I’m currently working on **Nft market place**
+- 🔭 I’m currently working on **Money Pool D-App**
 
-- 🌱 I’m currently learning **Blockchain development**
+- 🌱 I’m currently learning **Blockchain development, MERN stack**
 
 - 👯 I’m looking to collaborate on **Dapps**
 
