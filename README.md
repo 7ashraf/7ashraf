@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ashraf</h1>
 <h3 align="center">A Computer science and engineering</h3>
 
-- 🔭 I’m currently working on **Shift-togo and Money Pool D-App**
+- 🔭 I’m currently working on **Rust ICP**
 
-- 🌱 I’m currently learning **Blockchain development, MERN stack**
+- 🌱 I’m currently learning **Blockchain development (Rust)**
 
 - 👯 I’m looking to collaborate on **Dapps**
 
